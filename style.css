@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+}
+
+
+
+.service{
+    text-align: center;
+    width: 33%;
+    float:left;
+}
+
+
+.clearfix{
+
+    clear:both;
+}
